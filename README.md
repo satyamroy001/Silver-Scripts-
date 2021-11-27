@@ -3,6 +3,6 @@ Wanna feel the beauty of JavaScript!! check out this repository!!  ❤✔ Daily 
 ![]("https://www.tutorialrepublic.com/lib/images/javascript-illustration.png")
 
 <p align="center">
-  <img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" width="350" title="hover text">
+  <img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" width="500" title="hover text">
 
 </p>
