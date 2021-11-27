@@ -1,5 +1,5 @@
 # Silver-Scripts-
-Wanna feel the beauty of JavaScript!! check out this repository!!  ❤✔ Daily JavaScript snippets on the go!!👍✌🙌🙌
+<h2>Wanna feel the beauty of JavaScript!! check out this repository!!  ❤✔ Daily JavaScript snippets on the go!!👍✌🙌🙌 </h2>
 ![]("https://www.tutorialrepublic.com/lib/images/javascript-illustration.png")
 
 <p align="center">
